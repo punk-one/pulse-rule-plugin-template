@@ -1,0 +1,7 @@
+{
+  "id": "template_plugin",
+  "type": "processor",
+  "version": "0.1.0",
+  "sdk": "v2",
+  "entry": "main.go"
+}
